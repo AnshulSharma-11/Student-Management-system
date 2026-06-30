@@ -54,18 +54,4 @@ ________________________________________________________________________________
 - MySQL 8.0 or later is used.
 - Node.js version 18 or later is installed.
 
-______________________________________________________________________________________________________________________________________________________________________
-Student Management System.postman_collection.json
-
-Include requests like:
-
-GET /students
-POST /students
-GET /students/:id
-PUT /students/:id
-DELETE /students/:id
-GET /subjects
-GET /students/:id/marks
-POST /students/:id/marks
-PUT /students/:id/marks/:markId
-DELETE /students/:id/marks/:markId
+___________________________________________________________________________________________________________________________________________________________________
